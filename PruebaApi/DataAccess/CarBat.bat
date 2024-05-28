@@ -1,0 +1,1 @@
+ Scaffold-DbContext "Data Source=LAPTOP-2BQ6QPC4\SQLEXPRESS;Initial Catalog=prueba;Integrated Security=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -contextDir DataAccess\Context  -OutputDir Domain\Entities\Car  -UseDatabaseNames -NoPluralize -Tables Carro, Marca  -f -Context CarContext
